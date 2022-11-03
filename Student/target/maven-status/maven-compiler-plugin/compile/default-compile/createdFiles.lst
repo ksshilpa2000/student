@@ -1,0 +1,6 @@
+com\Student\Student\Repository\StudentRepository.class
+com\Student\Student\Service\StudentService.class
+com\Student\Student\DAO\StudentDAO.class
+com\Student\Student\Model\Student.class
+com\Student\Student\StudentApplication.class
+com\Student\Student\Controller\StudentController.class
